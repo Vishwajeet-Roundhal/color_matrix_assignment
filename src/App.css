@@ -1,0 +1,18 @@
+.matrix {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.row {
+  display: flex;
+}
+
+.cell {
+  width: 150px;
+  height: 150px;
+  border: 1px solid #000;
+  
+}
